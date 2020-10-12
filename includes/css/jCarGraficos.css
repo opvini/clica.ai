@@ -1,0 +1,69 @@
+
+.jcarousel-skin-graficos .jcarousel-container {
+    width: 800px;
+	height: 400px;
+}
+
+.jcarousel-skin-graficos .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+
+.jcarousel-skin-graficos .jcarousel-clip {
+    width:  800px;
+	height: 400px;
+}
+
+.jcarousel-skin-graficos .jcarousel-item {
+    width: 800px;
+	height: 400px;
+}
+
+
+
+/**
+ *  Horizontal Buttons
+ */
+
+.jcarousel-skin-graficos .jcarousel-next, .jcarousel-skin-graficos .jcarousel-prev {
+	position:absolute;
+	z-index: 100;
+	top: 150px;
+	right: 20px;
+	width:60px;
+	height:60px;
+}
+ 
+.jcarousel-skin-graficos .jcarousel-next {
+    background: url(../../imagens/setasControle.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-graficos .jcarousel-next-horizontal:hover {
+    background:url(../../imagens/setasControle.png) no-repeat 0 -60px;
+	cursor:pointer;
+}
+
+.jcarousel-skin-graficos .jcarousel-next-disabled,
+.jcarousel-skin-graficos .jcarousel-next-disabled:hover,
+.jcarousel-skin-graficos .jcarousel-next-disabled:active {
+    background-position: -96px 0;
+}
+
+.jcarousel-skin-graficos .jcarousel-prev {
+	top: 150px;
+	left: 20px;
+	background: transparent url(../../imagens/setasControle.png) no-repeat 0 -120px;
+}
+
+
+.jcarousel-skin-graficos .jcarousel-prev:hover {
+    background:url(../../imagens/setasControle.png) no-repeat 0 -180px;
+	cursor:pointer;
+}
+
+.jcarousel-skin-graficos .jcarousel-prev-disabled,
+.jcarousel-skin-graficos .jcarousel-prev-disabled:hover,
+.jcarousel-skin-graficos .jcarousel-prev-disabled:active {
+    background-position: -96px 0;
+}
+

@@ -1,0 +1,113 @@
+
+*{ margin:0; padding:0; border:0; }
+
+h1{ 
+	height: 93px;
+	width: 300px;
+	background:url(../../imagens/logo.png) no-repeat;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+h1 a{
+	display:block;
+	text-indent: -10000px;
+	overflow: hidden;
+	height: 100%;
+}
+
+#graficos{
+	width: 800px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+#graficos h2 {
+	display: none;
+}
+
+#graficos p a {
+	width: 100%;
+	height: 400px;
+	display: block;
+	text-indent: -10000px;
+	overflow: hidden;
+}
+
+#ControlGraficos {
+	width: 100px;
+	height: 13px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-top:10px;
+}
+
+#ControlGraficos li{
+	margin-right: 4px;
+	float:left;
+	list-style-type:none;
+}
+
+
+#ControlGraficos li a{
+	display: block;
+	width: 10px;
+	height: 10px;
+	background:url(../../imagens/ctrlDestaques.png) no-repeat 0 -10px;
+	cursor: pointer;
+}
+
+#ControlGraficos li a:hover{
+	background:url(../../imagens/ctrlDestaques.png) no-repeat 0 -20px;
+}
+
+#ControlGraficos li a:active{
+	background:url(../../imagens/ctrlDestaques.png) no-repeat 0 0;
+	cursor:default;
+}
+
+.ControlGraficosAtual{
+	background:url(../../imagens/ctrlDestaques.png) no-repeat 0 0;
+	cursor:default;
+}
+
+#detalhes{
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	width: 600px;
+	height: 170px;
+	color:#999;
+	border-bottom: 1px dotted gray;
+}
+
+#cliques{
+	font-size:35px;
+	float:left;
+	padding: 10px;
+	margin-right: 20px;
+	text-align:center;
+}
+
+#cliques h2{
+	color:#000;
+}
+
+#ulr_curta{
+	border-bottom: 1px dashed gray;
+	font-size: 25px;
+	padding: 5px;
+}
+
+#dets{
+	float:left;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+#titulo{
+	margin-bottom: 5px;
+}
