@@ -1,0 +1,2 @@
+# clica.ai
+URL Shortener
