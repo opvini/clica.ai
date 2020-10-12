@@ -2,7 +2,7 @@
 	display:block;
 	height: 43px;
 	width: 84px;
-	background:url(../../imagens/btn_encurtar.png) no-repeat;
+	background:url(imagens/btn_encurtar.png) no-repeat;
 	background-position:0 0;
 	cursor: pointer;
 }
@@ -10,13 +10,13 @@
 	display: block;
 	height: 43px;
 	width: 84px;
-	background: url(../../imagens/btn_encurtar.png) no-repeat;
+	background: url(imagens/btn_encurtar.png) no-repeat;
 	background-position: 0 -86px;
 }
 #botao_gera_url:active {
 	display: block;
 	height: 43px;
 	width: 84px;
-	background: url(../../imagens/btn_encurtar.png) no-repeat;
+	background: url(imagens/btn_encurtar.png) no-repeat;
 	background-position: 0 -43px;
 }

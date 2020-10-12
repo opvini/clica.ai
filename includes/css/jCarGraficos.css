@@ -35,11 +35,11 @@
 }
  
 .jcarousel-skin-graficos .jcarousel-next {
-    background: url(../../imagens/setasControle.png) no-repeat 0 0;
+    background: url(imagens/setasControle.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-graficos .jcarousel-next-horizontal:hover {
-    background:url(../../imagens/setasControle.png) no-repeat 0 -60px;
+    background:url(imagens/setasControle.png) no-repeat 0 -60px;
 	cursor:pointer;
 }
 
@@ -52,12 +52,12 @@
 .jcarousel-skin-graficos .jcarousel-prev {
 	top: 150px;
 	left: 20px;
-	background: transparent url(../../imagens/setasControle.png) no-repeat 0 -120px;
+	background: transparent url(imagens/setasControle.png) no-repeat 0 -120px;
 }
 
 
 .jcarousel-skin-graficos .jcarousel-prev:hover {
-    background:url(../../imagens/setasControle.png) no-repeat 0 -180px;
+    background:url(imagens/setasControle.png) no-repeat 0 -180px;
 	cursor:pointer;
 }
 

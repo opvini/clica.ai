@@ -3,7 +3,7 @@
 
 body {
 	background:#FFFFFF;
-	background-image: url(../../imagens/Layer_2.png);
+	background-image: url(imagens/Layer_2.png);
 	background-repeat: repeat-x;
 }
 body,td,th {
@@ -39,7 +39,7 @@ body,td,th {
 	display: block;
 	width:580px;
 	height:116px;
-	background-image:url(../../imagens/fundo_superior.png);
+	background-image:url(imagens/fundo_superior.png);
 	background-repeat: no-repeat;
 }
 
@@ -49,14 +49,14 @@ body,td,th {
 
 #meio_form {
 	width:580px;
-	background-image:url(../../imagens/fundo_meio.png);
+	background-image:url(imagens/fundo_meio.png);
 	background-repeat: repeat-y;
 }
 
 #botom_form {
 	width:580px;
 	height:280px;
-	background-image:url(../../imagens/fundo_inferior.png);
+	background-image:url(imagens/fundo_inferior.png);
 	background-repeat: no-repeat;
 }
 
@@ -80,7 +80,7 @@ body,td,th {
 }
 
 #botao_url{
-	background-image:url(../../imagens/input_url.png);
+	background-image:url(imagens/input_url.png);
 	background-repeat:no-repeat;
 	height:43px;
 	width:430px;
